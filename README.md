@@ -1,12 +1,15 @@
-
 # Selected Programs
 
 A curated collection of programs I've written and chosen to keep, organized by language. This is not a dump of everything I've practiced, only the ones I want to show.
 
 ## Structure
-Selected-programs                                                                                                    
-├── C/ # Selected C programs                                                                                   
+
+```
+Selected-programs/
+├── C/          # Selected C programs
 └── README.md
+```
+
 More language folders will be added over time.
 
 ## Contents
@@ -18,13 +21,23 @@ More language folders will be added over time.
 | `shoppingcartDiscount.c` | Calculates a shopping cart total with discounts applied |
 | `NumberGuessingGame.c` | A number guessing game played in the terminal |
 | `RockPapaerScissors.c` | A rock, paper, scissors game played against the computer |
+| `BankingSystem.c` | A terminal banking simulation with balance checks, deposits, and withdrawals |
 
 ## How to run the C programs
+
+With `clang` or `gcc` installed on macOS or Linux:
 
 ```bash
 cd C
 clang ProgramName.c -o ProgramName
 ./ProgramName
+```
+
+For example:
+
+```bash
+clang NumberGuessingGame.c -o NumberGuessingGame
+./NumberGuessingGame
 ```
 
 ## Notes
@@ -36,4 +49,3 @@ clang ProgramName.c -o ProgramName
 
 Garv Pahwa ([@garvpahwa007](https://github.com/garvpahwa007))
 B.Tech CSE, DIT University, Dehradun
-EOF
