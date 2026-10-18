@@ -1,5 +1,4 @@
-cd ~/Desktop/Selected-programs
-cat > README.md << 'EOF'
+
 # Selected Programs
 
 A curated collection of programs I've written and chosen to keep, organized by language. This is not a dump of everything I've practiced, only the ones I want to show.
