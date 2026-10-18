@@ -5,8 +5,8 @@ cat > README.md << 'EOF'
 A curated collection of programs I've written and chosen to keep, organized by language. This is not a dump of everything I've practiced, only the ones I want to show.
 
 ## Structure
-Selected-programs/
-├── C/ # Selected C programs
+Selected-programs                                                                                                    
+├── C/ # Selected C programs                                                                                         
 └── README.md
 
 More language folders will be added over time.
