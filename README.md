@@ -6,9 +6,8 @@ A curated collection of programs I've written and chosen to keep, organized by l
 
 ## Structure
 Selected-programs                                                                                                    
-├── C/ # Selected C programs                                                                                         
+├── C/ # Selected C programs                                                                                   
 └── README.md
-
 More language folders will be added over time.
 
 ## Contents
