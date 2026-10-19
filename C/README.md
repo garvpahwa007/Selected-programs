@@ -8,6 +8,7 @@ A collection of selected C programs from my practice work, written while learnin
 |------|-------------|
 | `shoppingcartDiscount.c` | Calculates a shopping cart total with discounts applied |
 | `NumberGuessingGame.c` | A number guessing game played in the terminal |
+| `RockPapaerScissors.c` | A rock, paper, scissors game played against the computer |
 
 ## How to compile and run
 

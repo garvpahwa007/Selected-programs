@@ -17,6 +17,7 @@ More language folders will be added over time.
 |------|-------------|
 | `shoppingcartDiscount.c` | Calculates a shopping cart total with discounts applied |
 | `NumberGuessingGame.c` | A number guessing game played in the terminal |
+| `RockPapaerScissors.c` | A rock, paper, scissors game played against the computer |
 
 ## How to run the C programs
 
